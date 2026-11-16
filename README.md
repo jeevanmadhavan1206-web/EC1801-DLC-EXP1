@@ -83,7 +83,8 @@ F(A,B,C,D)=Σm(0,2,5,7,8,10,13,15), which simplifies to F=B'D'+BD.
 was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
-## OUTPUT
+## OUTPUT<img width="1917" height="1072" alt="Screenshot 2026-11-16 084834" src="https://github.com/user-attachments/assets/f151c5cc-1ca0-4160-bfbc-410aeeb23ec2" />
+
 
 
 
